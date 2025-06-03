@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "Coworkers"
 permalink: /coworkers/
+title: "Moje swinie"
 ---
 
 ## Meet My Coworkers
